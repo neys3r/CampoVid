@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sincronizar"
+        android:title="Sincronizar" />
+    <item
+        android:id="@+id/action_salir_login"
+        android:orderInCategory="100"
+        android:title="Salir"
+        app:showAsAction="never" />
+
+</menu>
